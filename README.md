@@ -2,7 +2,7 @@
 
 
 - :pushpin: Sou do Rio de Janeiro, Brasil
-- :computer: Atualmente estou estudando sobre Javascript, Node.js e React.js
+- :computer: Atualmente estou estudando sobre Typescript e Angular. 
 - :white_flower: Gosto de ler, assistir séries, filmes, estudar programação web e ficar com os amigos e familiares. :satisfied:
 
 <!--
