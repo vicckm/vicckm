@@ -1,9 +1,9 @@
-### Oi, sou a Vic :relaxed:
+### Hi, I am Vic :relaxed:
 
 
-- :pushpin: Sou do Rio de Janeiro, Brasil
-- :computer: Atualmente estou estudando sobre Typescript e Angular. 
-- :white_flower: Gosto de ler, assistir séries, filmes, estudar programação web e ficar com os amigos e familiares. :satisfied:
+- :pushpin: I am from Rio de Janeiro, Brazil
+- :computer: Currently I am studying Typescript, Angular, and Vue.js. 
+- :white_flower: I like reading, watching series and movies, studying web programming and stay with my friends and family. :satisfied:
 
 <!--
 **vicckm/vicckm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
