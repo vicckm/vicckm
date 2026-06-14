@@ -1,6 +1,6 @@
-# Hi, I'm Victoria 👋
+# Hi, I'm Victoria Sobrinho 👋
 
-### Software Engineer | Engenheira de Software
+### Software Engineer
 
 📍 Brazil
 
