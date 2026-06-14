@@ -1,9 +1,23 @@
-### Hi, I am Vic :relaxed:
+# Hi, I'm Victoria 👋
 
+### Software Engineer | Engenheira de Software
 
-- :pushpin: I am from Rio de Janeiro, Brazil
-- :computer: Currently I am studying Typescript, Angular, and Vue.js. 
-- :white_flower: I like reading, watching series and movies, studying web programming and stay with my friends and family. :satisfied:
+📍 Brazil
 
-<!--
-**vicckm/vicckm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Building modern web applications with TypeScript, React and Server-Side Rendering, with growing interests in Information Security and Software Architecture.
+
+🚀 Passionate about continuous learning and creating solutions that solve real-world problems.
+
+🌱 Currently exploring:
+
+* Front-end Engineering
+* Web Performance
+* Software Architecture
+* Information Security
+* AI-powered Applications
+
+🔨 I enjoy building personal projects that challenge me to learn new technologies, from real-time applications and IoT integrations to intelligent systems powered by AI.
+
+📚 Sharing what I learn through projects and technical content.
+
+🌿 Reading • Plants • Movies & TV Series • Friends & Family
